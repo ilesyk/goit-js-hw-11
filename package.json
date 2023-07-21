@@ -18,9 +18,12 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@webcreate/infinite-ajax-scroll": "^3.1.0",
     "axios": "^1.4.0",
+    "infinite-scroll": "^4.0.1",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6"
+    "notiflix": "^3.2.6",
+    "simplelightbox": "^2.14.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
